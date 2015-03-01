@@ -3,7 +3,8 @@ package com.enums;
 public class TestEnum {
 	public static void main(String[] args) {
 		System.out.println(Season.getComfortableSeason().getDesc());
-		System.out.println(Season.Winter.getComfortableSeason());
+//		System.out.println(Season.Winter.getComfortableSeason());
+		System.out.println(Season.Autumu.getDesc());
 	}
 }
 
