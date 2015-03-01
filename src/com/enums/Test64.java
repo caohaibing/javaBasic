@@ -10,6 +10,7 @@ public class Test64 {
 		System.out.println(lagerConsts.size());
 		System.out.println(consts.getClass());
 		System.out.println(lagerConsts.getClass());
+		System.out.println();
 	}
 }
 
