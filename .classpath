@@ -5,5 +5,17 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="D:/软件/apache-tomcat-7.0.57/lib/servlet-api.jar"/>
 	<classpathentry kind="lib" path="D:/maven/jar/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HelloMoTo/Desktop/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HelloMoTo/Desktop/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HelloMoTo/Desktop/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HelloMoTo/Desktop/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HelloMoTo/Desktop/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HelloMoTo/Desktop/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HelloMoTo/Desktop/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HelloMoTo/Desktop/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HelloMoTo/Desktop/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HelloMoTo/Desktop/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HelloMoTo/Desktop/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HelloMoTo/Desktop/xstream-1.4.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
