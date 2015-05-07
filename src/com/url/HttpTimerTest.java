@@ -117,7 +117,7 @@ public class HttpTimerTest {
         public void run() {
             long start = System.currentTimeMillis();
             try {
-				sendHttp("www.baidu.com","/home?dsp=netbar&tn=01025065_7_pg");
+				sendHttp("http://localhost:8080/","rayweb/time/addDriverTime/{userId:\"234234\",startTime:\"2015-05-01 10:20:30\",endTime:\"2015-05-01 11:15:30\"}");
 			} catch (Exception e) {
 				e.printStackTrace();
 			}

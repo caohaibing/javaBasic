@@ -13,7 +13,7 @@ public class TestEquals {
 //		System.out.println(list.contains(p));
 //		System.out.println(list.contains(p2));
 		
-		Employee e1 = new Employee("ss", 100);
+	/*	Employee e1 = new Employee("ss", 100);
 		Employee e2 = new Employee("ss", 1000);
 		Person p = new Person("ss");
 		System.out.println(e1.equals(e2));
@@ -22,7 +22,8 @@ public class TestEquals {
 		System.out.println("*********");
 		System.out.println(p.equals(e1));
 		System.out.println(p.equals(e2));
-		System.out.println(e1.equals(e2));
+		System.out.println(e1.equals(e2));*/
+		System.err.println(2/0);
  	}
 }
 
