@@ -17,5 +17,19 @@
 	<classpathentry kind="lib" path="C:/Users/HelloMoTo/Desktop/slf4j-log4j12-1.5.8.jar"/>
 	<classpathentry kind="lib" path="C:/Users/HelloMoTo/Desktop/xpp3-1.1.4c.jar"/>
 	<classpathentry kind="lib" path="C:/Users/HelloMoTo/Desktop/xstream-1.4.7.jar"/>
+	<classpathentry kind="lib" path="D:/文档/jss-sdk-java-latest/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/文档/jss-sdk-java-latest/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/文档/jss-sdk-java-latest/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/文档/jss-sdk-java-latest/lib/guava-14.0.jar"/>
+	<classpathentry kind="lib" path="D:/文档/jss-sdk-java-latest/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/文档/jss-sdk-java-latest/lib/httpclient-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/文档/jss-sdk-java-latest/lib/httpcore-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/文档/jss-sdk-java-latest/lib/jackson-core-asl-1.9.12.jar"/>
+	<classpathentry kind="lib" path="D:/文档/jss-sdk-java-latest/lib/jackson-mapper-asl-1.9.12.jar"/>
+	<classpathentry kind="lib" path="D:/文档/jss-sdk-java-latest/lib/joda-time-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/文档/jss-sdk-java-latest/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/文档/jss-sdk-java-latest/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/文档/jss-sdk-java-latest/jss-sdk-java-1.2.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HelloMoTo/Desktop/QRCode.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
