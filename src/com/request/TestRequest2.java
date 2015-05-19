@@ -8,7 +8,11 @@ import java.net.URL;
 
 import com.util.Des3;
 
-public class TestRequest {
+public class TestRequest2 {
+	public static void main(String[] args) throws Exception {
+		System.err.println(httpRequest("http://localhost:8080/rayweb/time/getDriverTime/","userId="+Des3.encode("584365635")));
+
+	}
 
 	public  static String httpRequest(String requestUrl, String para) {
 		InputStream inputStream = null;
@@ -36,12 +40,9 @@ public class TestRequest {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		return bf.toString(); 
+		return bf.toString();
 	}
 
-	public static void main(String[] args) throws Exception {
-		System.err.println(httpRequest("http://localhost:8080/rayweb/time/getDriverTime/","userId="+Des3.encode("584365635")));
-
-	}
+	
 
 }
