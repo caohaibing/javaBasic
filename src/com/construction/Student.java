@@ -20,5 +20,4 @@ public class Student extends Person{
 		System.err.println(getClass().getSuperclass().getName());
 	}
 	
-	StringBuffer
 }
